@@ -1,0 +1,14 @@
+ import react from 'react';
+import reactDOM from 'react-dom';
+import Netflix from './Netflix';
+import Amazon from './Amazon';
+import App from './App';
+
+reactDOM.render(
+<>
+  <App/>
+  
+
+</>
+,document.getElementById('root')
+);
